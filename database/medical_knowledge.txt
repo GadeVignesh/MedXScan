@@ -1,0 +1,41 @@
+[PNEUMONIA_DEFINITION]
+Pneumonia is an infection of the lungs that causes inflammation of the air sacs, known as alveoli. The air sacs may fill with fluid or pus, leading to symptoms such as cough, fever, chills, chest pain, and difficulty breathing. Pneumonia can affect one or both lungs and ranges from mild to life-threatening.
+
+[PNEUMONIA_CAUSES]
+Pneumonia can be caused by bacteria, viruses, fungi, or parasites. Common bacterial causes include Streptococcus pneumoniae. Viral pneumonia may result from influenza viruses or respiratory syncytial virus. Fungal pneumonia is more common in individuals with weakened immune systems. Pneumonia often develops after upper respiratory tract infections.
+
+[PNEUMONIA_RISK_FACTORS]
+Risk factors for pneumonia include advanced age, smoking, chronic lung diseases, weakened immune systems, diabetes, heart disease, recent surgery, and prolonged hospitalization. Infants and elderly individuals are particularly vulnerable.
+
+[PNEUMONIA_SYMPTOMS]
+Common symptoms of pneumonia include persistent cough, production of mucus or phlegm, fever, chills, shortness of breath, chest pain during breathing or coughing, fatigue, nausea, vomiting, and confusion in older adults.
+
+[PNEUMONIA_XRAY]
+On a chest X-ray, pneumonia typically appears as white or cloudy opacities in the lung fields. These areas represent consolidation caused by fluid-filled alveoli. The pattern may vary depending on the type and severity of pneumonia.
+
+[PNEUMONIA_DIAGNOSIS]
+Pneumonia is diagnosed using a combination of medical history, physical examination, chest imaging, and laboratory tests. Chest X-rays are commonly used to confirm lung involvement. Blood tests, sputum cultures, and oxygen saturation measurements may also be performed.
+
+[PNEUMONIA_TREATMENT]
+Treatment for pneumonia depends on the cause. Bacterial pneumonia is treated with antibiotics, while viral pneumonia is managed with supportive care and antiviral medications in some cases. Treatment may include rest, fluids, oxygen therapy, and hospitalization for severe cases.
+
+[PNEUMONIA_PREVENTION]
+Pneumonia can be prevented through vaccination, good hygiene practices, smoking cessation, and management of underlying health conditions. Vaccines such as the pneumococcal vaccine and influenza vaccine significantly reduce the risk of pneumonia.
+
+[TUBERCULOSIS_DEFINITION]
+Tuberculosis is a chronic bacterial infection caused by Mycobacterium tuberculosis. It primarily affects the lungs but can spread to other organs. Tuberculosis spreads through airborne droplets when an infected person coughs or sneezes.
+
+[TUBERCULOSIS_SYMPTOMS]
+Symptoms of tuberculosis include chronic cough, weight loss, night sweats, fever, chest pain, and coughing up blood. Symptoms may develop gradually over weeks or months.
+
+[TUBERCULOSIS_XRAY]
+On chest X-ray, tuberculosis may appear as cavitary lesions, nodules, or infiltrates, particularly in the upper lobes of the lungs. Advanced cases may show widespread lung damage.
+
+[TUBERCULOSIS_TREATMENT]
+Tuberculosis is treated with a long course of combination antibiotics over several months. Adherence to treatment is essential to prevent drug resistance and ensure complete recovery.
+
+[X_RAY_OVERVIEW]
+An X-ray is a medical imaging technique that uses electromagnetic radiation to visualize structures inside the body. Chest X-rays are commonly used to examine the lungs, heart, and bones, and are a key diagnostic tool in respiratory diseases.
+
+[X_RAY_LIMITATIONS]
+Although chest X-rays are useful for detecting lung abnormalities, they may not identify early or mild disease. Additional imaging such as CT scans may be required for more detailed evaluation.
